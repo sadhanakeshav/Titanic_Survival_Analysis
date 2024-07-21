@@ -9,7 +9,7 @@ The sinking of the Titanic in 1912 was a tragic event that resulted in the loss 
 
 ### Steps followed 
 
-- Step 1 : Import the Titanic dataset which is in .csv format for analysis and visualization..
+- Step 1 : Import the Titanic dataset which is in .csv format for analysis and visualization.
 - Step 2 : Checked for missing values, duplicates, and data consistency.
 - Step 3 : Handled missing values by either imputing or removing them as appropriate. Used the downfill method to handle missing values in the Cabin column, ensuring continuity in data.
 
